@@ -27,3 +27,8 @@ Low Contrast Comfort: Designed to minimize eye strain while maintaining excellen
 Historical Texture: The overall look evokes a feeling of warmth and history, making your environment feel less like a screen and more like a carefully maintained journal.
 
 Road-Trip Ready: A sophisticated and unique alternative to high-contrast dark or sterile light themes.
+
+<img width="1600" height="900" alt="screenshot-2025-11-11_10-12-11" src="https://github.com/user-attachments/assets/b691ab5f-e8c6-4632-af14-9acc46d69310" />
+
+
+<img width="1600" height="900" alt="screenshot-2025-11-11_10-10-40" src="https://github.com/user-attachments/assets/1147b65a-c081-4fc5-81dc-4558802b5cbc" />
