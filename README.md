@@ -35,6 +35,12 @@ Road-Trip Ready: A sophisticated and unique alternative to high-contrast dark or
 
 
 A huge thank you to the following:
+
+
 https://github.com/tahfizhabib
+
+
 https://github.com/HANCORE-linux
+
+
 https://github.com/RiO7MAKK3R
